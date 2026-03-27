@@ -1,5 +1,3 @@
-# x-minute-city-tools
-
 # X-Minute City Analysis Toolbox
 
 **An open-source ArcGIS Pro toolbox for calculating the X-Minute City Index (XMCI)**
