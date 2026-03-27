@@ -30,7 +30,7 @@ It has been specifically optimized for stability (memory leak fixes, cursor mana
 4. Select `XMinuteCityIndex.pyt`.
 
 ### Quick Start
-See the full **[User Guide](docs/USER_GUIDE.md)** for detailed instructions.
+See the full **[User Guide](/USER_GUIDE.md)** for detailed instructions.
 
 ### Requirements
 - ArcGIS Pro 3.0 or higher
